@@ -1,0 +1,5 @@
+path: dataset
+train: images
+val: images  # Use same folder for simplicity
+nc: 1
+names: ['number_plate']
